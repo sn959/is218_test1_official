@@ -1,0 +1,1 @@
+requirements.txt is committed because it is a small text list that lets anyone recreate the same environment. The .venv folder is ignored because it is large, specific to my computer, and can be rebuilt from requirements.txt.
